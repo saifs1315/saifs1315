@@ -8,10 +8,10 @@ Previously, I delivered AI and Cloud solutions for **Schneider Electric** and **
 ---
 
 ### 🛠️ Tech Stack & Arsenal
-**Languages:** Go (Golang), Python, Java, SQL
-**Cloud & DevOps:** AWS (Lambda, Step Functions, DynamoDB, Firehose, ECS, SQS), Docker, CI/CD (Azure DevOps, Jenkins)
-**Data & AI:** Kafka, TimescaleDB, PostgreSQL, LangChain, LangGraph, LLMs (RAG/Agentic Workflows)
-**Architecture:** Serverless, Microservices, Event-Driven Architecture, RESTful APIs, WebSockets
+* **Languages:** Go (Golang), Python, Java, SQL
+* **Cloud & DevOps:** AWS (Lambda, Step Functions, DynamoDB, Firehose, ECS, SQS), Docker, CI/CD (Azure DevOps, Jenkins)
+* **Data & AI:** Kafka, TimescaleDB, PostgreSQL, LangChain, LangGraph, LLMs (RAG/Agentic Workflows)
+* **Architecture:** Serverless, Microservices, Event-Driven Architecture, RESTful APIs, WebSockets
 
 ---
 
@@ -58,5 +58,5 @@ Previously, I delivered AI and Cloud solutions for **Schneider Electric** and **
 ---
 
 ### 🎓 Education
-**MSc Management of Information Systems & Digital Innovation**, Warwick Business School (Distinction)
-**BTech Electronics and Instrumentation**, SRM Institute of Science and Technology (Distinction)
+* **MSc Management of Information Systems & Digital Innovation**, Warwick Business School (Distinction)
+* **BTech Electronics and Instrumentation**, SRM Institute of Science and Technology (Distinction)
