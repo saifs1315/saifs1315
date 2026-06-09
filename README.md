@@ -1,7 +1,7 @@
 # Hi there, I'm Saif! 👋
 
 ## 🚀 Founding Engineer | Cloud Architect | AI Engineer
-I specialise in building scalable, real-time backend systems and autonomous AI agents. Currently leading technical strategy at **Teem Camp**, architecting high-performance concurrent backends using Go and AWS.
+I specialise in building scalable, real-time backend systems and autonomous AI agents. Currently building **Plavio.ai**, architecting a scalable agentic system using AWS, LangGraph and FastAPI.
 
 Previously, I delivered AI and Cloud solutions for **Schneider Electric** and **London School of Hygiene & Tropical Medicine**, and led the development and scaling of UI and API Automation at **Deloitte**.
 
