@@ -76,15 +76,6 @@ Previously delivered AI and cloud solutions for **Schneider Electric** and the *
 
 ---
 
-### GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saifs1315&show_icons=true&theme=tokyonight" alt="Saif's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifs1315&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
 ### Education
 * **MSc Management of Information Systems & Digital Innovation**, Warwick Business School *(Distinction)*
 * **BTech Electronics & Instrumentation**, SRM Institute of Science and Technology *(Distinction)*
