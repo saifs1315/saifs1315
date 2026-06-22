@@ -9,7 +9,7 @@ Currently building **[Plavio.ai](https://www.plavio.ai)** — architecting an ag
 Previously delivered AI and cloud solutions for **Schneider Electric** and the **London School of Hygiene & Tropical Medicine**, and led UI/API test automation at **Deloitte**, lifting automated coverage from **15% → 75%**.
 
 - Ask me about durable workflow engines, serverless architecture, LangGraph, or event-driven systems
-- Reach me at **[[LinkedIn]](https://www.linkedin.com/in/saifrahmansyed/)** · **[plavio.ai](https://www.plavio.ai)**
+- Reach me at **[LinkedIn](https://www.linkedin.com/in/saifrahmansyed/)** · **[plavio.ai](https://www.plavio.ai)**
 
 ---
 
